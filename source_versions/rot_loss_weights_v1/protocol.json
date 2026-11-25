@@ -1,0 +1,219 @@
+{
+  "name": "rot_loss_weights_v1",
+  "date": "2026-11-13",
+  "settings": [
+    {
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    }
+  ],
+  "datasets": {
+    "hfzz": {
+      "arm": "record_wasserstein",
+      "pairs": [
+        "1750_to_2000",
+        "1750_to_2250",
+        "2000_to_1750",
+        "2000_to_2250",
+        "2250_to_1750",
+        "2250_to_2000"
+      ]
+    }
+  },
+  "seeds": [
+    611,
+    622,
+    633
+  ],
+  "initial_updates": 3000,
+  "refinement_updates": 1500,
+  "refresh_interval": 300,
+  "scope": "Same auxiliary coefficients applied in initial and refinement training; one coefficient varies at a time. Source CE and reconstruction remain at 1.",
+  "teacher": "Reuse fixed source-only teacher for the same original split and seed.",
+  "evaluation": "All settings reported. Target test labels loaded only after training. Sensitivity on development data, no selection of a new main configuration.",
+  "main_configurations": "HFZZ R-OT+S and PT700 geometric R-OT per 2026-11-02 manuscript designation.",
+  "max_concurrent_gpus": 3,
+  "tasks": [
+    {
+      "index": 0,
+      "dataset": "hfzz",
+      "pair": "1750_to_2000",
+      "seed": 611,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 1,
+      "dataset": "hfzz",
+      "pair": "1750_to_2000",
+      "seed": 622,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 2,
+      "dataset": "hfzz",
+      "pair": "1750_to_2000",
+      "seed": 633,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 3,
+      "dataset": "hfzz",
+      "pair": "1750_to_2250",
+      "seed": 611,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 4,
+      "dataset": "hfzz",
+      "pair": "1750_to_2250",
+      "seed": 622,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 5,
+      "dataset": "hfzz",
+      "pair": "1750_to_2250",
+      "seed": 633,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 6,
+      "dataset": "hfzz",
+      "pair": "2000_to_1750",
+      "seed": 611,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 7,
+      "dataset": "hfzz",
+      "pair": "2000_to_1750",
+      "seed": 622,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 8,
+      "dataset": "hfzz",
+      "pair": "2000_to_1750",
+      "seed": 633,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 9,
+      "dataset": "hfzz",
+      "pair": "2000_to_2250",
+      "seed": 611,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 10,
+      "dataset": "hfzz",
+      "pair": "2000_to_2250",
+      "seed": 622,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 11,
+      "dataset": "hfzz",
+      "pair": "2000_to_2250",
+      "seed": 633,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 12,
+      "dataset": "hfzz",
+      "pair": "2250_to_1750",
+      "seed": 611,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 13,
+      "dataset": "hfzz",
+      "pair": "2250_to_1750",
+      "seed": 622,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 14,
+      "dataset": "hfzz",
+      "pair": "2250_to_1750",
+      "seed": 633,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 15,
+      "dataset": "hfzz",
+      "pair": "2250_to_2000",
+      "seed": 611,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 16,
+      "dataset": "hfzz",
+      "pair": "2250_to_2000",
+      "seed": 622,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    },
+    {
+      "index": 17,
+      "dataset": "hfzz",
+      "pair": "2250_to_2000",
+      "seed": 633,
+      "arm": "record_wasserstein",
+      "name": "cycle_0",
+      "cycle": 0,
+      "contrast": 0.1
+    }
+  ]
+}

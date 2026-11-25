@@ -1,0 +1,21 @@
+{
+  "scope": "HFZZ six tasks only",
+  "seeds": [
+    611,
+    622,
+    633
+  ],
+  "dann_updates": 4500,
+  "dann_domain_weight": 0.2,
+  "dann_gradient_reversal": "linear ramp over first 500 updates",
+  "backbone": "matched 48-dimensional encoder and classifier",
+  "optimizer": "AdamW; lr .001 then .0002 at 3001 with optimizer reset; wd .0001; gradient clip 5",
+  "batches": "4 source per class; 36 unlabeled target",
+  "classical": "LinearSVC C=1 dual=False tol=1e-5 max_iter=10000; same normalized log spectra; CORAL covariance + I",
+  "classical_repeats": "one deterministic fit per task; no artificial seed SD",
+  "selection": "fixed last; no target labels for fit or hyperparameters",
+  "tsne_task": "2250_to_1750",
+  "tsne_seed": 611,
+  "maximum_concurrent_gpus": 3,
+  "posthoc_development": true
+}
