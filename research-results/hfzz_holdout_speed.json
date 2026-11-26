@@ -1,0 +1,160 @@
+{
+  "folds": [
+    {
+      "target": 1750,
+      "development_speeds": [
+        2000,
+        2250
+      ],
+      "weights": [
+        0.1,
+        0.3
+      ],
+      "tied_candidates": [
+        [
+          0.1,
+          0.3
+        ]
+      ],
+      "held_out_tasks": [
+        {
+          "source": 2000,
+          "seed": 611,
+          "accuracy": 99.67592592592592
+        },
+        {
+          "source": 2000,
+          "seed": 622,
+          "accuracy": 99.72222222222223
+        },
+        {
+          "source": 2000,
+          "seed": 633,
+          "accuracy": 99.53703703703704
+        },
+        {
+          "source": 2250,
+          "seed": 611,
+          "accuracy": 95.13888888888889
+        },
+        {
+          "source": 2250,
+          "seed": 622,
+          "accuracy": 98.75
+        },
+        {
+          "source": 2250,
+          "seed": 633,
+          "accuracy": 97.87037037037037
+        }
+      ],
+      "mean": 98.44907407407408
+    },
+    {
+      "target": 2000,
+      "development_speeds": [
+        1750,
+        2250
+      ],
+      "weights": [
+        0.0,
+        0.1
+      ],
+      "tied_candidates": [
+        [
+          0.0,
+          0.1
+        ]
+      ],
+      "held_out_tasks": [
+        {
+          "source": 1750,
+          "seed": 611,
+          "accuracy": 99.86111111111111
+        },
+        {
+          "source": 1750,
+          "seed": 622,
+          "accuracy": 99.9074074074074
+        },
+        {
+          "source": 1750,
+          "seed": 633,
+          "accuracy": 99.86111111111111
+        },
+        {
+          "source": 2250,
+          "seed": 611,
+          "accuracy": 97.5925925925926
+        },
+        {
+          "source": 2250,
+          "seed": 622,
+          "accuracy": 99.81481481481481
+        },
+        {
+          "source": 2250,
+          "seed": 633,
+          "accuracy": 99.86111111111111
+        }
+      ],
+      "mean": 99.48302469135803
+    },
+    {
+      "target": 2250,
+      "development_speeds": [
+        1750,
+        2000
+      ],
+      "weights": [
+        0.1,
+        0.03
+      ],
+      "tied_candidates": [
+        [
+          0.1,
+          0.03
+        ],
+        [
+          0.1,
+          1.0
+        ]
+      ],
+      "held_out_tasks": [
+        {
+          "source": 1750,
+          "seed": 611,
+          "accuracy": 89.02777777777777
+        },
+        {
+          "source": 1750,
+          "seed": 622,
+          "accuracy": 81.1574074074074
+        },
+        {
+          "source": 1750,
+          "seed": 633,
+          "accuracy": 98.19444444444444
+        },
+        {
+          "source": 2000,
+          "seed": 611,
+          "accuracy": 99.86111111111111
+        },
+        {
+          "source": 2000,
+          "seed": 622,
+          "accuracy": 99.44444444444444
+        },
+        {
+          "source": 2000,
+          "seed": 633,
+          "accuracy": 99.72222222222223
+        }
+      ],
+      "mean": 94.5679012345679
+    }
+  ],
+  "mean": 97.5,
+  "seed_sd": 1.4633462734287892
+}

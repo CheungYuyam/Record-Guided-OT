@@ -1,0 +1,307 @@
+parameter,value,arm,pair,seed,accuracy_percent,origin
+Record weight,0,no_record,1750_to_2000,611,99.25925925925925,frozen selected experiment
+Record weight,0,no_record,1750_to_2000,622,99.39814814814815,frozen selected experiment
+Record weight,0,no_record,1750_to_2000,633,99.07407407407408,frozen selected experiment
+Record weight,0,no_record,1750_to_2250,611,90.27777777777779,frozen selected experiment
+Record weight,0,no_record,1750_to_2250,622,87.63888888888889,frozen selected experiment
+Record weight,0,no_record,1750_to_2250,633,94.67592592592592,frozen selected experiment
+Record weight,0,no_record,2000_to_1750,611,99.02777777777779,frozen selected experiment
+Record weight,0,no_record,2000_to_1750,622,98.37962962962963,frozen selected experiment
+Record weight,0,no_record,2000_to_1750,633,99.49074074074075,frozen selected experiment
+Record weight,0,no_record,2000_to_2250,611,98.93518518518518,frozen selected experiment
+Record weight,0,no_record,2000_to_2250,622,97.5925925925926,frozen selected experiment
+Record weight,0,no_record,2000_to_2250,633,96.75925925925925,frozen selected experiment
+Record weight,0,no_record,2250_to_1750,611,94.53703703703704,frozen selected experiment
+Record weight,0,no_record,2250_to_1750,622,92.5925925925926,frozen selected experiment
+Record weight,0,no_record,2250_to_1750,633,95.13888888888889,frozen selected experiment
+Record weight,0,no_record,2250_to_2000,611,92.77777777777779,frozen selected experiment
+Record weight,0,no_record,2250_to_2000,622,95.64814814814815,frozen selected experiment
+Record weight,0,no_record,2250_to_2000,633,95.04629629629629,frozen selected experiment
+Record weight,0.25,weight_025,1750_to_2000,611,99.86111111111111,frozen selected experiment
+Record weight,0.25,weight_025,1750_to_2000,622,99.81481481481481,frozen selected experiment
+Record weight,0.25,weight_025,1750_to_2000,633,99.81481481481481,frozen selected experiment
+Record weight,0.25,weight_025,1750_to_2250,611,91.94444444444444,frozen selected experiment
+Record weight,0.25,weight_025,1750_to_2250,622,88.00925925925925,frozen selected experiment
+Record weight,0.25,weight_025,1750_to_2250,633,96.06481481481481,frozen selected experiment
+Record weight,0.25,weight_025,2000_to_1750,611,99.62962962962963,frozen selected experiment
+Record weight,0.25,weight_025,2000_to_1750,622,99.49074074074075,frozen selected experiment
+Record weight,0.25,weight_025,2000_to_1750,633,99.67592592592592,frozen selected experiment
+Record weight,0.25,weight_025,2000_to_2250,611,99.76851851851852,frozen selected experiment
+Record weight,0.25,weight_025,2000_to_2250,622,98.8425925925926,frozen selected experiment
+Record weight,0.25,weight_025,2000_to_2250,633,98.51851851851852,frozen selected experiment
+Record weight,0.25,weight_025,2250_to_1750,611,95.92592592592592,frozen selected experiment
+Record weight,0.25,weight_025,2250_to_1750,622,95.0,frozen selected experiment
+Record weight,0.25,weight_025,2250_to_1750,633,97.91666666666666,frozen selected experiment
+Record weight,0.25,weight_025,2250_to_2000,611,96.1574074074074,frozen selected experiment
+Record weight,0.25,weight_025,2250_to_2000,622,99.39814814814815,frozen selected experiment
+Record weight,0.25,weight_025,2250_to_2000,633,99.16666666666667,frozen selected experiment
+Record weight,0.5,primary,1750_to_2000,611,99.86111111111111,frozen selected experiment
+Record weight,0.5,primary,1750_to_2000,622,99.9074074074074,frozen selected experiment
+Record weight,0.5,primary,1750_to_2000,633,99.86111111111111,frozen selected experiment
+Record weight,0.5,primary,1750_to_2250,611,90.97222222222221,frozen selected experiment
+Record weight,0.5,primary,1750_to_2250,622,86.75925925925925,frozen selected experiment
+Record weight,0.5,primary,1750_to_2250,633,96.94444444444444,frozen selected experiment
+Record weight,0.5,primary,2000_to_1750,611,99.76851851851852,frozen selected experiment
+Record weight,0.5,primary,2000_to_1750,622,99.67592592592592,frozen selected experiment
+Record weight,0.5,primary,2000_to_1750,633,99.76851851851852,frozen selected experiment
+Record weight,0.5,primary,2000_to_2250,611,99.81481481481481,frozen selected experiment
+Record weight,0.5,primary,2000_to_2250,622,99.53703703703704,frozen selected experiment
+Record weight,0.5,primary,2000_to_2250,633,99.30555555555556,frozen selected experiment
+Record weight,0.5,primary,2250_to_1750,611,96.48148148148148,frozen selected experiment
+Record weight,0.5,primary,2250_to_1750,622,96.57407407407408,frozen selected experiment
+Record weight,0.5,primary,2250_to_1750,633,99.49074074074075,frozen selected experiment
+Record weight,0.5,primary,2250_to_2000,611,97.5925925925926,frozen selected experiment
+Record weight,0.5,primary,2250_to_2000,622,99.81481481481481,frozen selected experiment
+Record weight,0.5,primary,2250_to_2000,633,99.86111111111111,frozen selected experiment
+Record weight,0.75,weight_075,1750_to_2000,611,99.9074074074074,frozen selected experiment
+Record weight,0.75,weight_075,1750_to_2000,622,99.76851851851852,frozen selected experiment
+Record weight,0.75,weight_075,1750_to_2000,633,99.9537037037037,frozen selected experiment
+Record weight,0.75,weight_075,1750_to_2250,611,90.46296296296296,frozen selected experiment
+Record weight,0.75,weight_075,1750_to_2250,622,88.33333333333333,frozen selected experiment
+Record weight,0.75,weight_075,1750_to_2250,633,97.73148148148148,frozen selected experiment
+Record weight,0.75,weight_075,2000_to_1750,611,99.9537037037037,frozen selected experiment
+Record weight,0.75,weight_075,2000_to_1750,622,99.9074074074074,frozen selected experiment
+Record weight,0.75,weight_075,2000_to_1750,633,99.72222222222223,frozen selected experiment
+Record weight,0.75,weight_075,2000_to_2250,611,99.86111111111111,frozen selected experiment
+Record weight,0.75,weight_075,2000_to_2250,622,99.9074074074074,frozen selected experiment
+Record weight,0.75,weight_075,2000_to_2250,633,99.53703703703704,frozen selected experiment
+Record weight,0.75,weight_075,2250_to_1750,611,98.42592592592592,frozen selected experiment
+Record weight,0.75,weight_075,2250_to_1750,622,98.51851851851852,frozen selected experiment
+Record weight,0.75,weight_075,2250_to_1750,633,99.81481481481481,frozen selected experiment
+Record weight,0.75,weight_075,2250_to_2000,611,99.9074074074074,frozen selected experiment
+Record weight,0.75,weight_075,2250_to_2000,622,99.9074074074074,frozen selected experiment
+Record weight,0.75,weight_075,2250_to_2000,633,99.9537037037037,frozen selected experiment
+Record weight,1,weight_100,1750_to_2000,611,99.86111111111111,new
+Record weight,1,weight_100,1750_to_2000,622,99.9537037037037,new
+Record weight,1,weight_100,1750_to_2000,633,99.9537037037037,new
+Record weight,1,weight_100,1750_to_2250,611,91.3425925925926,new
+Record weight,1,weight_100,1750_to_2250,622,86.66666666666667,new
+Record weight,1,weight_100,1750_to_2250,633,98.24074074074073,new
+Record weight,1,weight_100,2000_to_1750,611,99.9537037037037,new
+Record weight,1,weight_100,2000_to_1750,622,99.9537037037037,new
+Record weight,1,weight_100,2000_to_1750,633,99.81481481481481,new
+Record weight,1,weight_100,2000_to_2250,611,99.86111111111111,new
+Record weight,1,weight_100,2000_to_2250,622,100.0,new
+Record weight,1,weight_100,2000_to_2250,633,99.9074074074074,new
+Record weight,1,weight_100,2250_to_1750,611,99.02777777777779,new
+Record weight,1,weight_100,2250_to_1750,622,99.72222222222223,new
+Record weight,1,weight_100,2250_to_1750,633,99.9074074074074,new
+Record weight,1,weight_100,2250_to_2000,611,100.0,new
+Record weight,1,weight_100,2250_to_2000,622,99.9537037037037,new
+Record weight,1,weight_100,2250_to_2000,633,99.9537037037037,new
+Entropy regularization,0.01,epsilon_001,1750_to_2000,611,99.86111111111111,new
+Entropy regularization,0.01,epsilon_001,1750_to_2000,622,99.81481481481481,new
+Entropy regularization,0.01,epsilon_001,1750_to_2000,633,99.76851851851852,new
+Entropy regularization,0.01,epsilon_001,1750_to_2250,611,89.58333333333334,new
+Entropy regularization,0.01,epsilon_001,1750_to_2250,622,91.3425925925926,new
+Entropy regularization,0.01,epsilon_001,1750_to_2250,633,93.19444444444444,new
+Entropy regularization,0.01,epsilon_001,2000_to_1750,611,99.25925925925925,new
+Entropy regularization,0.01,epsilon_001,2000_to_1750,622,99.72222222222223,new
+Entropy regularization,0.01,epsilon_001,2000_to_1750,633,99.76851851851852,new
+Entropy regularization,0.01,epsilon_001,2000_to_2250,611,99.16666666666667,new
+Entropy regularization,0.01,epsilon_001,2000_to_2250,622,97.5925925925926,new
+Entropy regularization,0.01,epsilon_001,2000_to_2250,633,95.0,new
+Entropy regularization,0.01,epsilon_001,2250_to_1750,611,95.50925925925927,new
+Entropy regularization,0.01,epsilon_001,2250_to_1750,622,95.27777777777777,new
+Entropy regularization,0.01,epsilon_001,2250_to_1750,633,97.77777777777777,new
+Entropy regularization,0.01,epsilon_001,2250_to_2000,611,96.85185185185186,new
+Entropy regularization,0.01,epsilon_001,2250_to_2000,622,99.30555555555556,new
+Entropy regularization,0.01,epsilon_001,2250_to_2000,633,97.08333333333333,new
+Entropy regularization,0.03,epsilon_003,1750_to_2000,611,99.9074074074074,new
+Entropy regularization,0.03,epsilon_003,1750_to_2000,622,99.9074074074074,new
+Entropy regularization,0.03,epsilon_003,1750_to_2000,633,99.9074074074074,new
+Entropy regularization,0.03,epsilon_003,1750_to_2250,611,90.41666666666667,new
+Entropy regularization,0.03,epsilon_003,1750_to_2250,622,90.50925925925925,new
+Entropy regularization,0.03,epsilon_003,1750_to_2250,633,94.21296296296296,new
+Entropy regularization,0.03,epsilon_003,2000_to_1750,611,99.86111111111111,new
+Entropy regularization,0.03,epsilon_003,2000_to_1750,622,99.72222222222223,new
+Entropy regularization,0.03,epsilon_003,2000_to_1750,633,99.9537037037037,new
+Entropy regularization,0.03,epsilon_003,2000_to_2250,611,99.72222222222223,new
+Entropy regularization,0.03,epsilon_003,2000_to_2250,622,98.37962962962963,new
+Entropy regularization,0.03,epsilon_003,2000_to_2250,633,95.50925925925927,new
+Entropy regularization,0.03,epsilon_003,2250_to_1750,611,95.64814814814815,new
+Entropy regularization,0.03,epsilon_003,2250_to_1750,622,96.38888888888889,new
+Entropy regularization,0.03,epsilon_003,2250_to_1750,633,98.98148148148148,new
+Entropy regularization,0.03,epsilon_003,2250_to_2000,611,96.85185185185186,new
+Entropy regularization,0.03,epsilon_003,2250_to_2000,622,99.76851851851852,new
+Entropy regularization,0.03,epsilon_003,2250_to_2000,633,99.39814814814815,new
+Entropy regularization,0.05,epsilon_005,1750_to_2000,611,99.9074074074074,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,1750_to_2000,622,99.86111111111111,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,1750_to_2000,633,99.86111111111111,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,1750_to_2250,611,91.89814814814815,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,1750_to_2250,622,90.50925925925925,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,1750_to_2250,633,93.19444444444444,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,2000_to_1750,611,99.67592592592592,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,2000_to_1750,622,99.76851851851852,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,2000_to_1750,633,99.9074074074074,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,2000_to_2250,611,99.9074074074074,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,2000_to_2250,622,98.88888888888889,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,2000_to_2250,633,95.23148148148148,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,2250_to_1750,611,96.25,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,2250_to_1750,622,97.63888888888889,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,2250_to_1750,633,98.47222222222223,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,2250_to_2000,611,98.28703703703704,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,2250_to_2000,622,99.9074074074074,frozen selected experiment
+Entropy regularization,0.05,epsilon_005,2250_to_2000,633,99.86111111111111,frozen selected experiment
+Entropy regularization,0.1,primary,1750_to_2000,611,99.86111111111111,frozen selected experiment
+Entropy regularization,0.1,primary,1750_to_2000,622,99.9074074074074,frozen selected experiment
+Entropy regularization,0.1,primary,1750_to_2000,633,99.86111111111111,frozen selected experiment
+Entropy regularization,0.1,primary,1750_to_2250,611,90.97222222222221,frozen selected experiment
+Entropy regularization,0.1,primary,1750_to_2250,622,86.75925925925925,frozen selected experiment
+Entropy regularization,0.1,primary,1750_to_2250,633,96.94444444444444,frozen selected experiment
+Entropy regularization,0.1,primary,2000_to_1750,611,99.76851851851852,frozen selected experiment
+Entropy regularization,0.1,primary,2000_to_1750,622,99.67592592592592,frozen selected experiment
+Entropy regularization,0.1,primary,2000_to_1750,633,99.76851851851852,frozen selected experiment
+Entropy regularization,0.1,primary,2000_to_2250,611,99.81481481481481,frozen selected experiment
+Entropy regularization,0.1,primary,2000_to_2250,622,99.53703703703704,frozen selected experiment
+Entropy regularization,0.1,primary,2000_to_2250,633,99.30555555555556,frozen selected experiment
+Entropy regularization,0.1,primary,2250_to_1750,611,96.48148148148148,frozen selected experiment
+Entropy regularization,0.1,primary,2250_to_1750,622,96.57407407407408,frozen selected experiment
+Entropy regularization,0.1,primary,2250_to_1750,633,99.49074074074075,frozen selected experiment
+Entropy regularization,0.1,primary,2250_to_2000,611,97.5925925925926,frozen selected experiment
+Entropy regularization,0.1,primary,2250_to_2000,622,99.81481481481481,frozen selected experiment
+Entropy regularization,0.1,primary,2250_to_2000,633,99.86111111111111,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,1750_to_2000,611,99.62962962962963,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,1750_to_2000,622,99.9074074074074,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,1750_to_2000,633,99.67592592592592,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,1750_to_2250,611,90.64814814814814,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,1750_to_2250,622,85.92592592592592,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,1750_to_2250,633,96.94444444444444,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,2000_to_1750,611,99.81481481481481,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,2000_to_1750,622,99.62962962962963,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,2000_to_1750,633,99.49074074074075,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,2000_to_2250,611,99.67592592592592,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,2000_to_2250,622,99.35185185185185,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,2000_to_2250,633,99.49074074074075,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,2250_to_1750,611,96.29629629629629,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,2250_to_1750,622,94.72222222222221,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,2250_to_1750,633,98.42592592592592,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,2250_to_2000,611,92.31481481481481,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,2250_to_2000,622,92.45370370370371,frozen selected experiment
+Entropy regularization,0.2,epsilon_020,2250_to_2000,633,98.88888888888889,frozen selected experiment
+Entropy regularization,0.3,epsilon_030,1750_to_2000,611,99.30555555555556,new
+Entropy regularization,0.3,epsilon_030,1750_to_2000,622,99.02777777777779,new
+Entropy regularization,0.3,epsilon_030,1750_to_2000,633,98.28703703703704,new
+Entropy regularization,0.3,epsilon_030,1750_to_2250,611,90.87962962962963,new
+Entropy regularization,0.3,epsilon_030,1750_to_2250,622,87.5,new
+Entropy regularization,0.3,epsilon_030,1750_to_2250,633,97.68518518518519,new
+Entropy regularization,0.3,epsilon_030,2000_to_1750,611,99.21296296296296,new
+Entropy regularization,0.3,epsilon_030,2000_to_1750,622,99.25925925925925,new
+Entropy regularization,0.3,epsilon_030,2000_to_1750,633,99.49074074074075,new
+Entropy regularization,0.3,epsilon_030,2000_to_2250,611,99.58333333333333,new
+Entropy regularization,0.3,epsilon_030,2000_to_2250,622,98.33333333333333,new
+Entropy regularization,0.3,epsilon_030,2000_to_2250,633,99.44444444444444,new
+Entropy regularization,0.3,epsilon_030,2250_to_1750,611,91.20370370370371,new
+Entropy regularization,0.3,epsilon_030,2250_to_1750,622,90.18518518518519,new
+Entropy regularization,0.3,epsilon_030,2250_to_1750,633,96.94444444444444,new
+Entropy regularization,0.3,epsilon_030,2250_to_2000,611,88.19444444444444,new
+Entropy regularization,0.3,epsilon_030,2250_to_2000,622,94.58333333333333,new
+Entropy regularization,0.3,epsilon_030,2250_to_2000,633,97.03703703703704,new
+Refresh interval,50,refresh_050,1750_to_2000,611,99.81481481481481,new
+Refresh interval,50,refresh_050,1750_to_2000,622,99.9537037037037,new
+Refresh interval,50,refresh_050,1750_to_2000,633,99.9537037037037,new
+Refresh interval,50,refresh_050,1750_to_2250,611,92.96296296296296,new
+Refresh interval,50,refresh_050,1750_to_2250,622,81.94444444444444,new
+Refresh interval,50,refresh_050,1750_to_2250,633,99.9074074074074,new
+Refresh interval,50,refresh_050,2000_to_1750,611,99.86111111111111,new
+Refresh interval,50,refresh_050,2000_to_1750,622,99.9537037037037,new
+Refresh interval,50,refresh_050,2000_to_1750,633,99.86111111111111,new
+Refresh interval,50,refresh_050,2000_to_2250,611,99.86111111111111,new
+Refresh interval,50,refresh_050,2000_to_2250,622,99.9074074074074,new
+Refresh interval,50,refresh_050,2000_to_2250,633,100.0,new
+Refresh interval,50,refresh_050,2250_to_1750,611,99.9537037037037,new
+Refresh interval,50,refresh_050,2250_to_1750,622,99.9074074074074,new
+Refresh interval,50,refresh_050,2250_to_1750,633,99.9074074074074,new
+Refresh interval,50,refresh_050,2250_to_2000,611,99.9537037037037,new
+Refresh interval,50,refresh_050,2250_to_2000,622,99.9074074074074,new
+Refresh interval,50,refresh_050,2250_to_2000,633,99.9537037037037,new
+Refresh interval,100,refresh_100,1750_to_2000,611,99.86111111111111,new
+Refresh interval,100,refresh_100,1750_to_2000,622,99.9537037037037,new
+Refresh interval,100,refresh_100,1750_to_2000,633,99.9537037037037,new
+Refresh interval,100,refresh_100,1750_to_2250,611,90.0925925925926,new
+Refresh interval,100,refresh_100,1750_to_2250,622,86.29629629629629,new
+Refresh interval,100,refresh_100,1750_to_2250,633,99.12037037037037,new
+Refresh interval,100,refresh_100,2000_to_1750,611,99.9074074074074,new
+Refresh interval,100,refresh_100,2000_to_1750,622,99.81481481481481,new
+Refresh interval,100,refresh_100,2000_to_1750,633,99.76851851851852,new
+Refresh interval,100,refresh_100,2000_to_2250,611,99.86111111111111,new
+Refresh interval,100,refresh_100,2000_to_2250,622,99.9074074074074,new
+Refresh interval,100,refresh_100,2000_to_2250,633,100.0,new
+Refresh interval,100,refresh_100,2250_to_1750,611,99.76851851851852,new
+Refresh interval,100,refresh_100,2250_to_1750,622,99.58333333333333,new
+Refresh interval,100,refresh_100,2250_to_1750,633,99.9074074074074,new
+Refresh interval,100,refresh_100,2250_to_2000,611,99.9537037037037,new
+Refresh interval,100,refresh_100,2250_to_2000,622,99.9074074074074,new
+Refresh interval,100,refresh_100,2250_to_2000,633,99.9537037037037,new
+Refresh interval,150,refresh_150,1750_to_2000,611,99.81481481481481,frozen selected experiment
+Refresh interval,150,refresh_150,1750_to_2000,622,99.9537037037037,frozen selected experiment
+Refresh interval,150,refresh_150,1750_to_2000,633,99.9537037037037,frozen selected experiment
+Refresh interval,150,refresh_150,1750_to_2250,611,90.23148148148148,frozen selected experiment
+Refresh interval,150,refresh_150,1750_to_2250,622,86.3425925925926,frozen selected experiment
+Refresh interval,150,refresh_150,1750_to_2250,633,98.56481481481481,frozen selected experiment
+Refresh interval,150,refresh_150,2000_to_1750,611,99.76851851851852,frozen selected experiment
+Refresh interval,150,refresh_150,2000_to_1750,622,99.9537037037037,frozen selected experiment
+Refresh interval,150,refresh_150,2000_to_1750,633,99.76851851851852,frozen selected experiment
+Refresh interval,150,refresh_150,2000_to_2250,611,99.86111111111111,frozen selected experiment
+Refresh interval,150,refresh_150,2000_to_2250,622,99.9537037037037,frozen selected experiment
+Refresh interval,150,refresh_150,2000_to_2250,633,99.81481481481481,frozen selected experiment
+Refresh interval,150,refresh_150,2250_to_1750,611,99.9537037037037,frozen selected experiment
+Refresh interval,150,refresh_150,2250_to_1750,622,99.72222222222223,frozen selected experiment
+Refresh interval,150,refresh_150,2250_to_1750,633,99.9074074074074,frozen selected experiment
+Refresh interval,150,refresh_150,2250_to_2000,611,100.0,frozen selected experiment
+Refresh interval,150,refresh_150,2250_to_2000,622,99.86111111111111,frozen selected experiment
+Refresh interval,150,refresh_150,2250_to_2000,633,99.9537037037037,frozen selected experiment
+Refresh interval,300,primary,1750_to_2000,611,99.86111111111111,frozen selected experiment
+Refresh interval,300,primary,1750_to_2000,622,99.9074074074074,frozen selected experiment
+Refresh interval,300,primary,1750_to_2000,633,99.86111111111111,frozen selected experiment
+Refresh interval,300,primary,1750_to_2250,611,90.97222222222221,frozen selected experiment
+Refresh interval,300,primary,1750_to_2250,622,86.75925925925925,frozen selected experiment
+Refresh interval,300,primary,1750_to_2250,633,96.94444444444444,frozen selected experiment
+Refresh interval,300,primary,2000_to_1750,611,99.76851851851852,frozen selected experiment
+Refresh interval,300,primary,2000_to_1750,622,99.67592592592592,frozen selected experiment
+Refresh interval,300,primary,2000_to_1750,633,99.76851851851852,frozen selected experiment
+Refresh interval,300,primary,2000_to_2250,611,99.81481481481481,frozen selected experiment
+Refresh interval,300,primary,2000_to_2250,622,99.53703703703704,frozen selected experiment
+Refresh interval,300,primary,2000_to_2250,633,99.30555555555556,frozen selected experiment
+Refresh interval,300,primary,2250_to_1750,611,96.48148148148148,frozen selected experiment
+Refresh interval,300,primary,2250_to_1750,622,96.57407407407408,frozen selected experiment
+Refresh interval,300,primary,2250_to_1750,633,99.49074074074075,frozen selected experiment
+Refresh interval,300,primary,2250_to_2000,611,97.5925925925926,frozen selected experiment
+Refresh interval,300,primary,2250_to_2000,622,99.81481481481481,frozen selected experiment
+Refresh interval,300,primary,2250_to_2000,633,99.86111111111111,frozen selected experiment
+Refresh interval,450,refresh_450,1750_to_2000,611,99.86111111111111,new
+Refresh interval,450,refresh_450,1750_to_2000,622,99.81481481481481,new
+Refresh interval,450,refresh_450,1750_to_2000,633,99.81481481481481,new
+Refresh interval,450,refresh_450,1750_to_2250,611,90.27777777777779,new
+Refresh interval,450,refresh_450,1750_to_2250,622,88.88888888888889,new
+Refresh interval,450,refresh_450,1750_to_2250,633,96.99074074074075,new
+Refresh interval,450,refresh_450,2000_to_1750,611,99.62962962962963,new
+Refresh interval,450,refresh_450,2000_to_1750,622,99.81481481481481,new
+Refresh interval,450,refresh_450,2000_to_1750,633,99.9537037037037,new
+Refresh interval,450,refresh_450,2000_to_2250,611,99.49074074074075,new
+Refresh interval,450,refresh_450,2000_to_2250,622,99.30555555555556,new
+Refresh interval,450,refresh_450,2000_to_2250,633,98.05555555555556,new
+Refresh interval,450,refresh_450,2250_to_1750,611,97.63888888888889,new
+Refresh interval,450,refresh_450,2250_to_1750,622,96.43518518518519,new
+Refresh interval,450,refresh_450,2250_to_1750,633,98.8425925925926,new
+Refresh interval,450,refresh_450,2250_to_2000,611,98.70370370370371,new
+Refresh interval,450,refresh_450,2250_to_2000,622,99.62962962962963,new
+Refresh interval,450,refresh_450,2250_to_2000,633,99.44444444444444,new
+Refresh interval,600,refresh_600,1750_to_2000,611,99.86111111111111,frozen selected experiment
+Refresh interval,600,refresh_600,1750_to_2000,622,99.86111111111111,frozen selected experiment
+Refresh interval,600,refresh_600,1750_to_2000,633,99.86111111111111,frozen selected experiment
+Refresh interval,600,refresh_600,1750_to_2250,611,91.52777777777777,frozen selected experiment
+Refresh interval,600,refresh_600,1750_to_2250,622,87.77777777777777,frozen selected experiment
+Refresh interval,600,refresh_600,1750_to_2250,633,96.52777777777779,frozen selected experiment
+Refresh interval,600,refresh_600,2000_to_1750,611,99.76851851851852,frozen selected experiment
+Refresh interval,600,refresh_600,2000_to_1750,622,99.76851851851852,frozen selected experiment
+Refresh interval,600,refresh_600,2000_to_1750,633,99.72222222222223,frozen selected experiment
+Refresh interval,600,refresh_600,2000_to_2250,611,99.76851851851852,frozen selected experiment
+Refresh interval,600,refresh_600,2000_to_2250,622,99.35185185185185,frozen selected experiment
+Refresh interval,600,refresh_600,2000_to_2250,633,96.99074074074075,frozen selected experiment
+Refresh interval,600,refresh_600,2250_to_1750,611,96.66666666666667,frozen selected experiment
+Refresh interval,600,refresh_600,2250_to_1750,622,94.86111111111111,frozen selected experiment
+Refresh interval,600,refresh_600,2250_to_1750,633,98.47222222222223,frozen selected experiment
+Refresh interval,600,refresh_600,2250_to_2000,611,95.69444444444444,frozen selected experiment
+Refresh interval,600,refresh_600,2250_to_2000,622,99.62962962962963,frozen selected experiment
+Refresh interval,600,refresh_600,2250_to_2000,633,99.12037037037037,frozen selected experiment
